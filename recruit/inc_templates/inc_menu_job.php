@@ -29,14 +29,14 @@
     <li class="<?php if(isset($jobtype) && $jobtype === '4'):?>active<?php endif;?>">
     <a href="job_04.php">
     <figure><img src="img/pic/recruit_04.jpg?<?= VER ?>" alt="PM（経験）"></figure>
-    <h3 class="v-txt01 v-o-up">PM<small>（経験）</small></h3>
+    <h3 class="v-txt01 v-o-up">プロジェクトマネージャー</h3>
     </a>
     </li>
 
     <li class="<?php if(isset($jobtype) && $jobtype === '5'):?>active<?php endif;?>">
     <a href="job_05.php">
     <figure><img src="img/pic/recruit_05.jpg?<?= VER ?>" alt="AnewS"></figure>
-    <h3 class="v-txt01 v-o-up" style="letter-spacing: -5px;">AnewS</h3>
+    <h3 class="v-txt01 v-o-up">事務職</h3>
     </a>
     </li>
 </ul>

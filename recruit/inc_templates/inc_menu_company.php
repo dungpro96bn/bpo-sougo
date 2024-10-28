@@ -7,7 +7,7 @@
 <ul>
 <!-- * -->
 <li><a href="javascript:void(0)" onclick="App.loadSection('modal_contents_A.php?section=0', '#modal_contents_A','代表メッセージ')">
-<h3 class="v-txt01">代表メッセージ</h3>
+<h3 class="v-txt01">メッセージ</h3>
 <figure><i class="arrow-r"></i>
 <img src="img/pic/menu_g01.jpg?<?= VER ?>" alt="代表メッセージ"></figure>
 <span>自由なビジネスの舞台で、能動的に挑戦したい方へ。</span>
@@ -34,7 +34,7 @@
 <h3 class="v-txt01">企業文化</h3>
 <figure><i class="arrow-r"></i>
 <img src="img/pic/menu_g04.jpg?<?= VER ?>" alt="文化"></figure>
-<span>ビジネスマンとして人に選ばれる「気づき」を大切にしています。</span>
+<span>顧客に選ばれる企業として小さな「気づき」を、大切にしています。</span>
 </a></li>
 
 <!-- * -->

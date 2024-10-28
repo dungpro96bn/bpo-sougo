@@ -78,7 +78,7 @@
 <header id="header">
 <div class="header-logo">
 <a href="index.php" class="h_logo">
-    <img src="img/logo00.svg?<?= VER ?>" alt="綜合キャリアオプション" id="logo00" >
+    <img src="img/logo00.svg?<?= VER ?>" alt="綜合キャリアオプション" id="logo00" ><span>中途採用</span>
 </a>
 </div>
 </header>

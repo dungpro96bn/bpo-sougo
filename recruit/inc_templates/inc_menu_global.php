@@ -5,13 +5,13 @@
 
 <?php 
 if ($sidemenu !== true) : ?>
-<li><a href="index.php#section-recruit">中途採用</a></li>
-<li><a href="about_number.php">数字で見る</a></li>
-<li><a href="about_company.php">職場環境</a></li>
-<li><a href="about_culture.php">企業文化</a></li>
+<li><a href="index.php#section-recruit">TOP</a></li>
+<li><a href="about_number.php">会社概要</a></li>
+<li><a href="javascript:void(0)" onclick="App.loadSection('modal_contents_A.php?section=0', '#modal_contents_A','代表メッセージ')">メッセージ</a></li>
 <li><a href="index.php#section-top-interview">社員の声</a></li>
 <li><a href="index.php#lst-work-day">職場密着動画</a></li>
-<li><a href="javascript:void(0)" onclick="App.loadSection('modal_contents_A.php?section=0', '#modal_contents_A','代表メッセージ')">代表メッセージ</a></li>
+<li><a href="about_company.php">職場環境</a></li>
+<li><a href="about_culture.php">企業文化</a></li>
 <?php else:?>
 <li><a href="about_number.php">数字で見る</a></li>
 <li><a href="about_company.php">職場環境</a></li>

@@ -88,11 +88,11 @@
 <ul class="box-flex col3">
     <li><div><i class="fa-solid fa-receipt"></i><strong>交通費支給<small>(上限3万円)</small></strong></div></li>
     <li><div><i class="fa-solid fa-laptop"></i><strong>PC貸与</strong></div></li>
-    <li><div><i class="fa-solid fa-mobile-retro"></i><strong>社用携帯貸与</strong></div></li>
+    <li><div><i class="fa-solid fa-mobile-retro"></i><strong>社会保険完備</strong></div></li>
     <li><div><i class="fa-solid fa-heart"></i></i><strong>定期健康診断</strong></div></li>
     <li><div><i class="fa-solid fa-person-pregnant"></i><strong>産前・産後休暇<small>(取得実績あり)</small></strong></div></li>
     <li><div><i class="fa-solid fa-hands-holding-child"></i><strong>育児休暇<small>(取得実績あり)</small></strong></div></li>
-    <li><div><i class="fa-solid fa-train-subway"></i><strong>交通費規定支給<small>(通勤交通費上限3万円)</small></strong></div></li>
+    <li><div><i class="fa-solid fa-train-subway"></i><strong>受動喫煙体制</strong></div></li>
     <li><div><i class="fa-solid fa-person-walking-luggage"></i><strong>出張手当<small></small></strong></div></li>
     <li><div><i class="fa-solid fa-car-rear"></i><strong>資格取得手当<small></small></strong></div></li>
     <li><div><i class="fa-solid fa-chalkboard-user"></i><strong>研修制度<small>(Web受講研修あり)</small></strong></div></li>
