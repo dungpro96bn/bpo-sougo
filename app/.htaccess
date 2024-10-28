@@ -1,0 +1,5 @@
+# inc_templatesディレクトリへの直接アクセスを禁止
+Options -Indexes
+
+# inc_templatesディレクトリへのアクセスを拒否する
+Deny from all
