@@ -14980,6 +14980,21 @@ body:before {
     margin: 0
 }
 
+.box-interview-col2 .col2 .text-subname{
+    display: block;
+    width: calc(100% - 150px);
+    font-size: 12px;
+    margin-top: 6px;
+}
+
+@media (min-width: 720px) {
+
+    .box-interview-col2 .col2 .text-subname{
+        width: calc(100% - 260px);
+    }
+
+}
+
 .fancybox__container {
     z-index: 9999;
     --fancybox-bg: linear-gradient(to left top, #127683, #8CB4B3);
@@ -18217,8 +18232,10 @@ a:hover i.arrow-r {
     left: 50%;
     transform: translate(-50%, -50%);
     width: 100%;
-    height: auto;
-    z-index: 0
+    height: 100%;
+    z-index: 0;
+    object-fit: cover;
+    object-position: center;
 }
 
 #box-present {

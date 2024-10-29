@@ -15,6 +15,12 @@ $section = isset($_GET['section']) ? $_GET['section'] : '';
       <h4>綜合キャリアオプション</h4>
       <i>取締役副社長</i>
       <h5 class="name"><ruby>神保<rt>ジンボ</rt></ruby> <ruby>光路郎<rt>コウジロウ</rt></ruby></h5>
+      <p class="text-subname">1982年生まれ。法政大学××学部卒業後、IT・セキュリティ業界にて営業／コンサルを経験。<br/>
+          201X年、綜合キャオプション入社。BPO事業部配属後、〇〇に従事し〇〇の改善と向上に貢献。201X年、同事業部、事業責任者に就任。<br/>
+          201X年、サービス範囲を物流、不動産、海外事業など多方面に進出させ売上を約〇倍の250億円に拡大。<br/>
+          201X年綜合キャリアオプション副社長に就任。<br/>
+          プロセスソリューション分野への進出を主導し、IOTやロボット／メタバースを取り入れたHR×ITの飛躍的な向上をもってグループ売上1,200億に貢献。<br/>
+          202×年綜合キャリアオプションの母体であるCAMCOMグループ取締役、事業企画責任者に就任。</p>
   </div>
 </div>
 
@@ -22,7 +28,7 @@ $section = isset($_GET['section']) ? $_GET['section'] : '';
 <DIV class="box-message-mov">
   <div class="media-mov">
     <video controls playsinline webkit-playsinline poster="img/interview/0/interview00.jpg?<?= VER ?>" preload="metadata" alt="メッセージ動画" >
-    <source src="img/interview/0/interview00.mp4?<?= VER ?>" target="_blank">
+    <source src="img/interview/0/interview_1029.mp4?<?= VER ?>" target="_blank">
     </video>
   </div>
 </DIV>

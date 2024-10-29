@@ -82,7 +82,7 @@ require("./inc_templates/header.php");
             </div>
         </article>
         <div class="tit02 title-index-recruit">
-            <a href="#" class="btn-link">募集要項一覧</a>
+            <h2>募集要項一覧</h2>
         </div>
         <div class="box-btn">
             <a href="#section-message" class="btn-maru-big mx-4" data-js="add_hover"><span>NEXT</span></a>

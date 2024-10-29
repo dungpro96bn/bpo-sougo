@@ -81,6 +81,22 @@ require("./inc_templates/header.php");
                     </div>
                 </article>
 
+                <!-- *4 -->
+                <article class="flex-col2 box-culture" id="culture-2">
+                    <div class="order-md-1">
+                        <div class="tit-m v-txt01">
+                            <h2>思いをはせる</h2>
+                            <p class="v-txt01">
+                                私たちが大切にしている考えかたは相手に「思いをはせる」ことです。 目の前の顧客に思いをはせることで、根本的な課題に気づき、解決策を提案していきます。隣の同僚に思いをはせることで、 お互いが気持ちよく仕事ができる環境が生まれます。そのような目に見えない気づかいや気配りを大切にしています。 毎日、社員が各部屋に花を活けて飾るのも、小さな「気づき」を日々養うためのひとつの取り組みです。
+                            </p>
+                        </div>
+                    </div>
+                    <div class="order-md-2">
+                        <figure class="img-maru img-s"><img src="img/pic/comC_01.jpg?<?= VER ?>" alt="企業文化写真4"></figure>
+                        <figure class="img-maru img-m"><img src="img/pic/comC_04.jpg?<?= VER ?>" alt="企業文化写真5"></figure>
+                        <figure class="img-maru"><img src="img/pic/comC_05_new.jpg?<?= VER ?>" alt="企業文化写真6"></figure>
+                    </div>
+                </article>
 
                 <article class="box-culture-mov">
                     <div class="tit02"><h2>朝のルーティーン</h2></div>
