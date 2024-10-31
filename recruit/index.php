@@ -10,11 +10,11 @@ require("./inc_templates/header.php");
     <DIV id="sw">
         <div class="swiper-wrapper" style="z-index: 22;" id="section-00">
             <article>
-                <h2 class="v-txt01"><span>売り方は
-                    <ruby>自分
+                <h2 class="v-txt01">チャレン
+                    <ruby>ジす
                         <rt>キャリア</rt>
                     </ruby>
-                    が決める。</span><br>あなたの可能性を広げる<br/>ステージがここに。
+                    るたびに、<br>新しい自分に出会える。
                 </h2>
                 <strong class="tit-top js-split">綜合キャリアオプションの中途採用</strong>
             </article>
