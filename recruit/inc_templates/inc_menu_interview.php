@@ -69,7 +69,7 @@
             <a href="interview_07.php" class="box-interview">
                 <div class="tit-m v-txt01">
                     <h2><span>伊藤 梨佐</span><br/>
-                        <small>営業</small>
+                        <small>営業企画</small>
                         <i>Risa Ito</i>
                     </h2>
                     <p class="tit-s v-txt01">
