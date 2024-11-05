@@ -1,7 +1,7 @@
 <?php
 if ($sidemenu !== true) : ?>
     <li><a href="index.php#section-recruit">TOP</a></li>
-    <li><a href="about_number.php">会社概要</a></li>
+    <li><a href="about_number.php">数字で見る会社概要</a></li>
     <li><a href="javascript:void(0)" onclick="App.loadSection('modal_contents_A.php?section=0', '#modal_contents_A','代表メッセージ')">メッセージ</a></li>
     <li><a href="index.php#section-top-interview">社員の声</a></li>
     <li><a href="index.php#lst-work-day">職場密着動画</a></li>
@@ -44,7 +44,7 @@ if ($sidemenu !== true) : ?>
             </li>
         </ul>
     </li>
-    <li><a href="about_number.php">会社概要</a></li>
+    <li><a href="about_number.php">数字で見る会社概要</a></li>
     <li><a href="javascript:void(0)" onclick="App.loadSection('modal_contents_A.php?section=0', '#modal_contents_A','代表メッセージ')">メッセージ</a>
         <ul>
             <!--*10-->

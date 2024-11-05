@@ -37,7 +37,7 @@
     data-caption="職場密着動画　山路さん（AnewS）" 
     data-thumb="img/oneday/day_05.jpg?<?= VER ?>">
     <figure class="media-mov"><img src="img/oneday/day_05.jpg?<?= VER ?>" alt="職場密着動画　山路さん（AnewS）"></figure>
-        <h3 class="v-txt01 v-o-up"><small>山路</small><br>Anews</h3>
+        <h3 class="v-txt01 v-o-up"><small>山路</small><br>事務職</h3>
     </a>
 </li>
 </ul>

@@ -164,42 +164,6 @@ require("./inc_templates/header.php");
 
 
             <!-- * -->
-            <DIV class="flex-col2 bg-box-r" style="margin:80px 0">
-                <DIV class="order-md-2">
-                    <div class="v-txt">
-                        <h3 class="tit">思いをはせる</span></h3>
-                        <p>私たちが大切にしている考えかたは相手に「思いをはせる」ことです。
-                            目の前の顧客に思いをはせることで、根本的な課題に気づき、解決策を提案していきます。隣の同僚に思いをはせることで、
-                            お互いが気持ちよく仕事ができる環境が生まれます。そのような目に見えない気づかいや気配りを大切にしています。
-                            毎日、社員が各部屋に花を活けて飾るのも、小さな「気づき」を日々養うためのひとつの取り組みです。</p>
-                    </div>
-                </DIV>
-                <DIV class="order-md-1">
-                    <section class="wrap-gallery03">
-                        <DIV class="swiper swiper_body" id="box-gallery14">
-                            <div class="swiper-wrapper">
-                                <div class="swiper-slide"><img src="img/pic/comC_01.jpg?<?= VER ?>" alt="思いをはせる"/></div>
-                                <div class="swiper-slide"><img src="img/pic/comC_02.jpg?<?= VER ?>" alt="思いをはせる"/></div>
-                                <div class="swiper-slide"><img src="img/pic/comC_03.jpg?<?= VER ?>" alt="思いをはせる"/></div>
-                                <div class="swiper-slide"><img src="img/pic/comC_04.jpg?<?= VER ?>" alt="思いをはせる"/></div>
-                                <div class="swiper-slide"><img src="img/pic/comC_05.jpg?<?= VER ?>" alt="思いをはせる"/></div>
-                            </div>
-                        </DIV>
-                        <DIV class="swiper swiper_menu" id="box-gallery14_menu">
-                            <div class="swiper-wrapper">
-                                <div class="swiper-slide"><img src="img/pic/comC_01.jpg?<?= VER ?>" alt="思いをはせる"/></div>
-                                <div class="swiper-slide"><img src="img/pic/comC_02.jpg?<?= VER ?>" alt="思いをはせる"/></div>
-                                <div class="swiper-slide"><img src="img/pic/comC_03.jpg?<?= VER ?>" alt="思いをはせる"/></div>
-                                <div class="swiper-slide"><img src="img/pic/comC_04.jpg?<?= VER ?>" alt="思いをはせる"/></div>
-                                <div class="swiper-slide"><img src="img/pic/comC_05.jpg?<?= VER ?>" alt="思いをはせる"/></div>
-                            </div>
-                        </DIV>
-                    </section>
-                </DIV>
-            </DIV>
-
-
-            <!-- * -->
             <DIV class="flex-col2 bg-box-l" style="margin:80px 0">
                 <DIV class="order-md-1">
                     <div class="v-txt">
