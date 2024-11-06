@@ -10,8 +10,7 @@ require("./inc_templates/header.php");
     <DIV id="sw">
         <div class="swiper-wrapper" style="z-index: 22;" id="section-00">
             <article>
-                <h2 class="v-txt01">チャレンるたびに、<br>新しい自分に出会える。
-                </h2>
+                <h2 class="v-txt01">挑戦を恐れず進める場所、<br/>そして新しい可能性に<br/>出会える場所</h2>
                 <strong class="tit-top js-split">綜合キャリアオプションの中途採用</strong>
             </article>
             <?php
