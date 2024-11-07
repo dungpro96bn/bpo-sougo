@@ -15590,17 +15590,17 @@ body:before {
     z-index: 100;
 }
 .tit02.title-index-recruit a{
-    background: #56a3c7;
-    font-weight: 300;
-    font-size: 1.1rem;
-    color: #FFF;
-    transition: all .4s;
-    display: flex;
-    text-decoration: none;
-    width: 250px;
-    justify-content: center;
-    align-items: center;
-    padding: 1rem 1.5rem;
+    /*background: #56a3c7;*/
+    /*font-weight: 300;*/
+    /*font-size: 1.1rem;*/
+    /*color: #FFF;*/
+    /*transition: all .4s;*/
+    /*display: flex;*/
+    /*text-decoration: none;*/
+    /*width: 250px;*/
+    /*justify-content: center;*/
+    /*align-items: center;*/
+    /*padding: 1rem 1.5rem;*/
 }
 
 .tit02 h2, .tit02 .h2 {

@@ -7,7 +7,7 @@ if ($sidemenu !== true) : ?>
     <li><a href="index.php#lst-work-day">職場密着動画</a></li>
     <li><a href="about_company.php">職場環境</a></li>
     <li><a href="about_culture.php">企業文化</a></li>
-    <li><a href="#">募集要項</a></li>
+    <li><a href="job_index.php">募集要項</a></li>
 <?php else: ?>
     <li><a href="index.php#section-recruit">TOP</a>
         <?php /*require("./inc_templates/inc_menu_job.php");*/ ?>
@@ -165,6 +165,6 @@ if ($sidemenu !== true) : ?>
     </li>
     <li><a href="about_company.php">職場環境</a></li>
     <li><a href="about_culture.php">企業文化</a></li>
-    <li><a href="#">募集要項</a></li>
+    <li><a href="job_index.php">募集要項</a></li>
 
 <?php endif; ?>
