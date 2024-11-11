@@ -36,6 +36,14 @@ require("./inc_templates/header.php");
     <?php require("./inc_templates/inc_devimg.php");?>
   </SECTION>
 
+    <SECTION id="section-jobdetail">
+        <DIV class="container">
+            <article class="jobinfo" style="padding-top: 80px">
+                <?php require("./inc_templates/inc_menu_job.php"); ?>
+            </article>
+        </DIV>
+        <?php require("./inc_templates/inc_devimg.php");?>
+    </SECTION>
 
 </MAIN>
 
