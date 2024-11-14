@@ -15,7 +15,7 @@
             <a href="interview_01.php" class="box-interview">
                 <div class="tit-m v-txt01">
                     <h2><span>山口 恭平</span><br/>
-                        <small>営業</small>
+                        <small>構築コンサル</small>
                         <i>Kyohei Yamaguchi</i>
                     </h2>
                     <p class="tit-s v-txt01">
@@ -33,7 +33,7 @@
             <a href="interview_02.php" class="box-interview">
                 <div class="tit-m v-txt01">
                     <h2><span>林 泰之</span><br/>
-                        <small>営業</small>
+                        <small style="writing-mode: horizontal-tb; text-align: center; position: relative; right: -4px; top: -2px;">P<br/>M</small>
                         <i>Yasuyuki Hayashi</i>
                     </h2>
                     <p class="tit-s v-txt01">
@@ -51,7 +51,7 @@
             <a href="interview_05.php" class="box-interview">
                 <div class="tit-m v-txt01">
                     <h2><span>千葉 景子</span><br/>
-                        <small>営業企画</small>
+                        <small>営業</small>
                         <i>Keiko Chiba</i>
                     </h2>
                     <p class="tit-s v-txt01">
@@ -69,7 +69,7 @@
             <a href="interview_07.php" class="box-interview">
                 <div class="tit-m v-txt01">
                     <h2><span>伊藤 梨佐</span><br/>
-                        <small>営業企画</small>
+                        <small>営業</small>
                         <i>Risa Ito</i>
                     </h2>
                     <p class="tit-s v-txt01">
@@ -89,7 +89,7 @@
             <a href="interview_09.php" class="box-interview">
                 <div class="tit-m v-txt01">
                     <h2><span>廣田 尚紀</span><br/>
-                        <small>構築コンサルー</small>
+                        <small>営業</small>
                         <i>Naoki Hirota</i>
                     </h2>
                     <p class="tit-s v-txt01">
@@ -107,7 +107,7 @@
             <a href="interview_10.php" class="box-interview">
                 <div class="tit-m v-txt01">
                     <h2><span>松宮 貴明</span><br/>
-                        <small>プロジェクトマネージャー</small>
+                        <small>営業企画</small>
                         <i>Takaaki Matsumiya</i>
                     </h2>
                     <p class="tit-s v-txt01">
